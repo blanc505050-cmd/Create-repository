@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"//50/2026-07-08-hpm-hpc-pos/","title":"2026-07-08_김용성_프로_HPM-HPC-POS_정산_구조_설명","tags":["메시지","HPP","정산","시스템구조"],"dg-note-properties":{"title":"2026-07-08_김용성_프로_HPM-HPC-POS_정산_구조_설명","date":"2026-07-08","tags":["메시지","HPP","정산","시스템구조"],"type":"메시지","thread":"김용성 프로 · HPM-HPC-POS 정산 구조","channel":"사내 메신저","participants":["김용성 프로","Ellie Hyun"],"received":"2026-07-08","source":"원본 메시지","related":["[[HPP_정산_흐름_비교]]","[[HPP_HP_기존_정산_프로세스]]","[[해피포인트_플러스_HPP]]"]}}
+{"dg-publish":true,"dg-permalink":"ellie-hyun/2026-07-08-hpm-hpc-pos","permalink":"/ellie-hyun/2026-07-08-hpm-hpc-pos/","title":"2026-07-08_김용성_프로_HPM-HPC-POS_정산_구조_설명","tags":["메시지","HPP","정산","시스템구조"],"dg-note-properties":{"title":"2026-07-08_김용성_프로_HPM-HPC-POS_정산_구조_설명","date":"2026-07-08","tags":["메시지","HPP","정산","시스템구조"],"type":"메시지","thread":"김용성 프로 · HPM-HPC-POS 정산 구조","channel":"사내 메신저","participants":["김용성 프로","Ellie Hyun"],"received":"2026-07-08","source":"원본 메시지","related":["[[HPP_정산_흐름_비교]]","[[HPP_HP_기존_정산_프로세스]]","[[해피포인트_플러스_HPP]]"]}}
 ---
+
 
 
 # 2026-07-08_김용성_프로_HPM-HPC-POS_정산_구조_설명
@@ -27,3 +28,5 @@ HPM(해피페이머니)–HPC(해피포인트 시스템)–POS–ERP 간 정산 
 
 ## 💬 대화 타임라인
 - 2026-07-08 · 김용성 프로 · AS-IS(POS→ERP 직접 전달 불가, HPC 경유)와 TO-BE(HPM↔HPC↔POS 자금 흐름) 구조 설명. 유상/무상 분리 요건으로 HPM→HPC 전환분을 상계 처리하고 무상 사용만 집계하는 현행 구현 로직 공유.
+
+

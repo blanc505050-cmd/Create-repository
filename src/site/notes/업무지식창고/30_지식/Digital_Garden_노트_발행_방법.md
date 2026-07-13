@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//30/digital-garden/","title":"Digital Garden 노트 발행 방법","tags":["Digital Garden","Obsidian","발행","공유"],"dg-note-properties":{"title":"Digital Garden 노트 발행 방법","date":"2026-06-30","tags":["Digital Garden","Obsidian","발행","공유"],"type":"지식","related":[]}}
+{"dg-publish":true,"dg-permalink":"ellie-hyun/digital-garden","permalink":"/ellie-hyun/digital-garden/","title":"Digital Garden 노트 발행 방법","tags":["Digital Garden","Obsidian","발행","공유"],"dg-note-properties":{"title":"Digital Garden 노트 발행 방법","date":"2026-06-30","tags":["Digital Garden","Obsidian","발행","공유"],"type":"지식","related":[]}}
 ---
 
 
@@ -8,6 +8,8 @@
 Obsidian 노트를 외부에 공유할 수 있는 웹사이트로 발행하는 방법.
 
 ---
+
+
 
 ## 🆕 처음 발행하는 노트
 
